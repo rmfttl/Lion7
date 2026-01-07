@@ -1,0 +1,8 @@
+C:\lion7project\Lion7\UPDOWNgame\UPDOWNgame\bin\Debug\UPDOWNgame.exe.config
+C:\lion7project\Lion7\UPDOWNgame\UPDOWNgame\bin\Debug\UPDOWNgame.exe
+C:\lion7project\Lion7\UPDOWNgame\UPDOWNgame\bin\Debug\UPDOWNgame.pdb
+C:\lion7project\Lion7\UPDOWNgame\UPDOWNgame\obj\Debug\UPDOWNgame.csproj.AssemblyReference.cache
+C:\lion7project\Lion7\UPDOWNgame\UPDOWNgame\obj\Debug\UPDOWNgame.csproj.CoreCompileInputs.cache
+C:\lion7project\Lion7\UPDOWNgame\UPDOWNgame\obj\Debug\UPDOWNgame.exe
+C:\lion7project\Lion7\UPDOWNgame\UPDOWNgame\obj\Debug\UPDOWNgame.pdb
+C:\lion7project\Lion7\UPDOWNgame\UPDOWNgame\obj\Debug\UPDOWNgame.exe.config
