@@ -1,0 +1,2 @@
+C:\lion7project\Lion7\TextRPG\TextRPG\obj\Debug\TextRPG.csproj.AssemblyReference.cache
+C:\lion7project\Lion7\TextRPG\TextRPG\obj\Debug\TextRPG.csproj.CoreCompileInputs.cache
